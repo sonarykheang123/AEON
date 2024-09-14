@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+.card{
+    margin: 0 auto;
+    width: 80%;
+    height: 80vh;
+    margin-top: 100px;
+}
+.img {
+    width: 100%;
+    height: 100%; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("https://cne.wtf/wp-content/uploads/2020/11/1-32.jpeg"); 
+}
+.wel{
+   background-color: rgba(255, 255, 255, 0.74);
+   height: 10vh;
+   align-items: center;
+   justify-content: start;
+   display: flex;
+   color:  rgb(187, 53, 109);
+   margin-top: 30%;
+   font-size: 28px;
+   width: 70%;
+
+}
+.card{
+    display: flex;
+}
+.form-group img{
+    width: 40%;
+    height: 5vh;
+    margin: 25px;
+    margin-left: 100px;
+}
+.wel button{
+    width:1rem;
+    width: 2vh;
+}
+.form-group{
+    width: 50%;
+    margin-left: 40px;
+}
+.form-group p{
+  font-size: 24px;
+  color:grey;
+  margin: 10px;
+}
+.form input{
+    width: 105%;
+    display: flex;
+    height: 3vh;
+    margin: 10px;
+    padding:5px; 
+    border: solid 1px gray;
+}
+.form span{
+    margin: 10px;
+}
+button{
+    width: 107%;
+    padding: 15px;
+    margin: 10px;
+    border: none;
+    color: white;
+    background-color: rgb(187, 53, 109);
+}
+a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 60px;
+    color: rgb(187, 53, 109);
+}
+.choice input span{
+    display: flex;
+    margin: 10px;
+      
+}
+
+.choice{
+    margin: 10px;
+}
+
+
+
